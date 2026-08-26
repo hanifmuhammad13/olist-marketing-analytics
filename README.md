@@ -14,7 +14,7 @@ Mass marketing in e-commerce leads to inefficient ad spend and low engagement. O
    - Filtered exact marketing targets for cross-sell campaigns (e.g., 929 Champions & 3,143 Loyal Customers in Home Comfort).
 
 ##  Impact & ROI
-Transformed raw transaction logs into an actionable, targeted marketing list—maximizing campaign ROI by focusing promotional budgets exclusively on high-conversion customer segments.
+Transformed raw transaction logs into an actionable, targeted marketing list maximizing campaign ROI by focusing promotional budgets exclusively on high-conversion customer segments.
 
 ##  Dataset & Citation
 - Dataset: [Brazilian E-Commerce Public Dataset by Olist (Kaggle)](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
